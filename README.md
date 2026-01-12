@@ -47,5 +47,5 @@ Joint Researcher: Built gesture-controlled mobile robots using ToF sensors, Medi
 
 
 
-🌏 Community Leadership
+🌏 
 Co-chair of Chinese Student and Scholar Association in Japan (CSSAJ). Active in academic exchange and cross-cultural diplomacy.
