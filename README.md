@@ -28,8 +28,7 @@ Control: Optimal Control, Predictive Control, Trajectory Planning
 
 Huawei Technologies Yokohama Research Institute (Sep 2025 - Dec 2025)
 
-Project Intern: Developing low-cost automated EV home charging system with robotic arms, achieving 99%+ plug-in success rate
-
+Project Intern: Developing low-cost automated EV home charging system with robotic arms
 
 Ernst and Young, Shanghai (Jan 2025 - Feb 2025)
 
@@ -38,7 +37,7 @@ IT Assurance Intern: Participated in annual audit procedures and financial compl
 
 Shanghai FANUC Robotics (Oct 2024 - Dec 2024)
 
-Machine Vision Engineer Intern: Developed automated inspection systems achieving 99%+ defect detection rate with ±0.1mm accuracy
+Machine Vision Engineer Intern: Developed automated inspection systems achieving high defect detection rate 
 
 
 
